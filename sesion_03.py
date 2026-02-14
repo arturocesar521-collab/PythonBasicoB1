@@ -32,3 +32,14 @@ for i in mi_lista_2:
             break
       else: 
          print("i es ahora mayor o igual a >")
+      # practica 2
+      i = 0
+      mi_lista_2 = ["lunes", "martes", "miercoles","jueves", "viernes"]
+      while i < 3:
+         i +=1
+
+   for d in mi_lista_2:
+          if d != "lunes":
+           print(d)
+         
+       
